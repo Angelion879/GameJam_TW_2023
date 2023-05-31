@@ -50,7 +50,9 @@ Please remember to check the last box, the *Documentation* one. Other than that,
 If you haven't installed it on your machine yet, I'll leave the link [here](https://code.visualstudio.com). You can add whichever plugins that makes you comfortable with coding and prepare your enviroment as you like, I just have a few suggestions:
 
   **1. IntelliCode API**
+
   ![Guide Screenshot](./txt_assets/Intellicode.png)
 
   **2. C# for Visual Studio Code**
+  
   ![Guide Screenshot](./txt_assets/Csharp.png)
