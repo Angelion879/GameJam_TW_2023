@@ -38,7 +38,7 @@ Once you have finished the instalation process of UnityHub, go ahead and open it
 
 In order to keep everyone in the same version and keep it as updated as possible, we'll use version **2022.3.0f1 LTS**. You can select it. In the next step it'll offer you to download modules. 
 
-![Guide Screenshot](./txt_assets/UnityEditor.png)
+![Guide Screenshot](./txt_assets/unityEditor.png)
 
 Please remember to check the last box, the *Documentation* one. Other than that, you can download any modules you want, but personally I recommend you to check *out* the box of the Microsoft Visual Studio. It's the standart code editor for unity, but it consumes more RAM. I usually use Visual Studio Code.
 
