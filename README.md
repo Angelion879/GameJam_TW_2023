@@ -3,15 +3,15 @@
 
 # **GameJam_TW_2023**
 
-First hings first, WELCOME to our official Game Jam Repo! I'll start off by giving some instructions, so we can all be on the same page for friday (02/06).
+First things first, WELCOME to our official Game Jam Repo! I'll start off by giving some instructions, so we can all be on the same page for friday (02/06).
 
 
 # 1 - Accounts
-We will need to have some registration done in order for us to work smoothlly during the weekend, so I listed here the most important ones for you to have ready.
+We will need to have some registration done for us to work smoothly during the weekend, so I listed here the most important ones for you to have ready.
 
 ## Itch.io
 ---
-Our game shall be submitted to a site called [itch.io](https://itch.io) in order to us to compete in the game jam. This site is a cool place for indie developers and creators to share content about game development and even their new indie games.
+Our game shall be submitted to a site called [itch.io](https://itch.io) for us to compete in the game jam. This site is a cool place for indie developers and creators to share content about game development and even their new indie games.
 
 Being aware of that, I must ask all of you to create an account there. I have created one myself a while ago (this is my [profile](https://angelion879.itch.io)) and if you need any help with it, dont hesitate on calling me!
 
@@ -38,12 +38,12 @@ Once you have finished the instalation process of UnityHub, go ahead and open it
 
 In order to keep everyone in the same version and keep it as updated as possible, we'll use version **2022.3.0f1 LTS**. You can select it. In the next step it'll offer you to download modules. 
 
-![Guide Screenshot](./txt_assets/UnityEditor.png)
+![Guide Screenshot](./txt_assets/unityEditor.png)
 
 Please remember to check the last box, the *Documentation* one. Other than that, you can download any modules you want, but personally I recommend you to check *out* the box of the Microsoft Visual Studio. It's the standart code editor for unity, but it consumes more RAM. I usually use Visual Studio Code.
 
 
-#### *Note: I'm counting with the possibility that we all have a Windows computer. If you have a MacOS, let me know in order to help you through any dificulties of the process.*
+#### *Note: I'm counting with the possibility that we all have a Windows computer. If you have a MacOS or a Linux, let me know in order to help you through any dificulties of the process.*
 
 ## Visual Studio Code
 ---
